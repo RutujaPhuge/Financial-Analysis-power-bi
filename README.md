@@ -37,3 +37,7 @@ This project showcases a comprehensive Financial Analysis Dashboard built using 
 
       Goal:-
          To Analyze Financial performance and derive Insights for Stratergic Business decisions. 
+
+         # Dashboard Preview
+
+         https://raw.githubusercontent.com/RutujaPhuge/Financial-Analysis-power-bi/main/power%20bi%20project.png
