@@ -3,6 +3,9 @@
 Financial Analysis Dashboard- Power BI Project
 
 This project showcases a comprehensive Financial Analysis Dashboard built using Power BI.The report provides actionable insights into sales trends, customer segments, product performance. Key features include:
+
+# Goal:-
+        To Analyze Financial performance and derive Insights for Stratergic Business decisions. 
   
    1: Sales Analysis by Month:-
        Visualizes monthly sales volume to identify high performing periods.
@@ -35,9 +38,6 @@ This project showcases a comprehensive Financial Analysis Dashboard built using 
       Tools Used:-
         Power BI, DAX, Data Cleaning, Data Modelling, Visual Designs.
 
-      Goal:-
-         To Analyze Financial performance and derive Insights for Stratergic Business decisions. 
+  # Dashboard Preview
 
-         # Dashboard Preview
-
-         https://raw.githubusercontent.com/RutujaPhuge/Financial-Analysis-power-bi/main/power%20bi%20project.png
+https://raw.githubusercontent.com/RutujaPhuge/Financial-Analysis-power-bi/main/power%20bi%20project.png
