@@ -1,8 +1,6 @@
-# Financial-Analysis-power-bi
+# AI - Powered Sales Target & Performance
 
-Financial Analysis Dashboard- Power BI Project
-
-This project showcases a comprehensive Financial Analysis Dashboard built using Power BI.The report provides actionable insights into sales trends, customer segments, product performance. Key features include:
+An interactive Power BI dashboard built using AI features like Q&A to analyze the data. The report provides actionable insights into sales trends, customer segments, product performance. Key features include:
 
 # Goal:-
         To Analyze Financial performance and derive Insights for Stratergic Business decisions. 
